@@ -1,0 +1,14 @@
+C:\Users\bridg\Downloads\Part 1 - Impact of Data\Part 1 - Impact of Data\bin\Debug\net8.0\Part 1 - Impact of Data.exe
+C:\Users\bridg\Downloads\Part 1 - Impact of Data\Part 1 - Impact of Data\bin\Debug\net8.0\Part 1 - Impact of Data.deps.json
+C:\Users\bridg\Downloads\Part 1 - Impact of Data\Part 1 - Impact of Data\bin\Debug\net8.0\Part 1 - Impact of Data.runtimeconfig.json
+C:\Users\bridg\Downloads\Part 1 - Impact of Data\Part 1 - Impact of Data\bin\Debug\net8.0\Part 1 - Impact of Data.dll
+C:\Users\bridg\Downloads\Part 1 - Impact of Data\Part 1 - Impact of Data\bin\Debug\net8.0\Part 1 - Impact of Data.pdb
+C:\Users\bridg\Downloads\Part 1 - Impact of Data\Part 1 - Impact of Data\obj\Debug\net8.0\Part 1 - Impact of Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bridg\Downloads\Part 1 - Impact of Data\Part 1 - Impact of Data\obj\Debug\net8.0\Part 1 - Impact of Data.AssemblyInfoInputs.cache
+C:\Users\bridg\Downloads\Part 1 - Impact of Data\Part 1 - Impact of Data\obj\Debug\net8.0\Part 1 - Impact of Data.AssemblyInfo.cs
+C:\Users\bridg\Downloads\Part 1 - Impact of Data\Part 1 - Impact of Data\obj\Debug\net8.0\Part 1 - Impact of Data.csproj.CoreCompileInputs.cache
+C:\Users\bridg\Downloads\Part 1 - Impact of Data\Part 1 - Impact of Data\obj\Debug\net8.0\Part 1 - Impact of Data.dll
+C:\Users\bridg\Downloads\Part 1 - Impact of Data\Part 1 - Impact of Data\obj\Debug\net8.0\refint\Part 1 - Impact of Data.dll
+C:\Users\bridg\Downloads\Part 1 - Impact of Data\Part 1 - Impact of Data\obj\Debug\net8.0\Part 1 - Impact of Data.pdb
+C:\Users\bridg\Downloads\Part 1 - Impact of Data\Part 1 - Impact of Data\obj\Debug\net8.0\Part 1 - Impact of Data.genruntimeconfig.cache
+C:\Users\bridg\Downloads\Part 1 - Impact of Data\Part 1 - Impact of Data\obj\Debug\net8.0\ref\Part 1 - Impact of Data.dll
