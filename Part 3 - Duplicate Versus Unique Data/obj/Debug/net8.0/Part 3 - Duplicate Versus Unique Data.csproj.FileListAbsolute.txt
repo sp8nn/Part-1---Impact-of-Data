@@ -1,0 +1,14 @@
+C:\Users\bridg\source\repos\Part 3 - Duplicate Versus Unique Data\bin\Debug\net8.0\Part 3 - Duplicate Versus Unique Data.exe
+C:\Users\bridg\source\repos\Part 3 - Duplicate Versus Unique Data\bin\Debug\net8.0\Part 3 - Duplicate Versus Unique Data.deps.json
+C:\Users\bridg\source\repos\Part 3 - Duplicate Versus Unique Data\bin\Debug\net8.0\Part 3 - Duplicate Versus Unique Data.runtimeconfig.json
+C:\Users\bridg\source\repos\Part 3 - Duplicate Versus Unique Data\bin\Debug\net8.0\Part 3 - Duplicate Versus Unique Data.dll
+C:\Users\bridg\source\repos\Part 3 - Duplicate Versus Unique Data\bin\Debug\net8.0\Part 3 - Duplicate Versus Unique Data.pdb
+C:\Users\bridg\source\repos\Part 3 - Duplicate Versus Unique Data\obj\Debug\net8.0\Part 3 - Duplicate Versus Unique Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bridg\source\repos\Part 3 - Duplicate Versus Unique Data\obj\Debug\net8.0\Part 3 - Duplicate Versus Unique Data.AssemblyInfoInputs.cache
+C:\Users\bridg\source\repos\Part 3 - Duplicate Versus Unique Data\obj\Debug\net8.0\Part 3 - Duplicate Versus Unique Data.AssemblyInfo.cs
+C:\Users\bridg\source\repos\Part 3 - Duplicate Versus Unique Data\obj\Debug\net8.0\Part 3 - Duplicate Versus Unique Data.csproj.CoreCompileInputs.cache
+C:\Users\bridg\source\repos\Part 3 - Duplicate Versus Unique Data\obj\Debug\net8.0\Part 3 - Duplicate Versus Unique Data.dll
+C:\Users\bridg\source\repos\Part 3 - Duplicate Versus Unique Data\obj\Debug\net8.0\refint\Part 3 - Duplicate Versus Unique Data.dll
+C:\Users\bridg\source\repos\Part 3 - Duplicate Versus Unique Data\obj\Debug\net8.0\Part 3 - Duplicate Versus Unique Data.pdb
+C:\Users\bridg\source\repos\Part 3 - Duplicate Versus Unique Data\obj\Debug\net8.0\Part 3 - Duplicate Versus Unique Data.genruntimeconfig.cache
+C:\Users\bridg\source\repos\Part 3 - Duplicate Versus Unique Data\obj\Debug\net8.0\ref\Part 3 - Duplicate Versus Unique Data.dll
